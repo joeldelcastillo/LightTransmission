@@ -21,6 +21,6 @@ void loop()
 {
   Serial.println(value);
   value++;
-  delay(1000);
+  delay(1000); //Hola soy Cami
   // put your main code here, to run repeatedly:
 }
